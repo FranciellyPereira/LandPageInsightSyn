@@ -5,7 +5,7 @@ Este projeto consiste em uma página inicial para a equipe **InsighSyn**.
 ## Funcionalidades
 
 - **Navbar Fixa**: Um menu de navegação no topo da página, com links para as principais seções do site.
-- **Carrossel de Imagens**: Uma área de destaque que exibe imagens do produto.
+- **Banner de Imagens**: Uma área de destaque que exibe imagens do produto.
 - **Seção de Produtos**: Descrição detalhada sobre o produto **Memori**, com imagens de dispositivos iPhone e logos de parceiros como Apple e Google.
 - **Equipe**: Apresentação da equipe de desenvolvimento do Memori com fotos e descrições.
 - **Sobre Nós**: Seção explicando a missão e visão da equipe InsightSync, criadora do Memori.
