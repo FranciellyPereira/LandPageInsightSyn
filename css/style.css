@@ -12,8 +12,12 @@
     font-style: normal;
 }
 
+a{
+    font-family: Creato;
+}
+
 p{
-    font-family: TTHoves;
+    font-family: TTHoves !important;
 }
 
 h2{
@@ -61,11 +65,13 @@ form{
 }
 
 
+
 .wrapper {
     display: flex;
     flex-direction: column; /* Para empilhar as seções verticalmente */
     background-color: #EEEEEE;
     width: 100%;
+  
     
 }
 
@@ -180,6 +186,7 @@ form{
     flex-direction: column;
     width: 624px;
     height: 327px;
+    font-family: Creato;
     
     
 }
@@ -189,7 +196,7 @@ form{
     height: 140px;
     margin-bottom: 50px;
     top: -145px;  /* Ajuste esse valor para mover o logo mais para cima */
-    z-index: 1;
+    z-index: 0;
 }
 
 .memoLogoParagProduct p {
