@@ -337,6 +337,7 @@ form{
     left: 350px;
     width: 1000px;
     height: 431px;
+    padding-right: 10px;
 }
 
 .infoAbout h2 {
@@ -345,7 +346,7 @@ form{
     margin-bottom: 10px;
 }
 .infoAbout p{
-    font-size: 20px;
+    font-size: 18px;
     text-align: end;
     justify-content: end;
     margin-bottom: 20px;
@@ -362,12 +363,12 @@ form{
     justify-content: space-around;
     align-items: center;
     right: -70px;
-    width: 90%;
+    width:95%;
     height: 153px;
     border-top-left-radius: 45px; /* Borda esquerda completamente arredondada */
   border-bottom-left-radius: 45px; /* Borda esquerda completamente arredondada */
     background-color: #FF0075;
-    padding: 10px;
+    padding: 15px;
     margin: 20px;
 }
 
@@ -446,6 +447,7 @@ form{
     display: flex;
     gap: 20px;
     align-items: center;
+    padding-left: 10px;
 }
 
 .footerEsquerdo ul {
@@ -462,5 +464,6 @@ left: 66px;
 
 .footerDireito p{
     color: #EEEEEE;
+    padding-right:10px;
     
 }
